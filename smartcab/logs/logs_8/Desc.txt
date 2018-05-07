@@ -1,0 +1,3 @@
+self.epsilon = math.exp(-0.01*self.t)
+epsilon = 1
+alpha = 5

@@ -1,0 +1,2 @@
+alpha = 0
+epsilon = epsilon - 0.05

@@ -1,0 +1,3 @@
+Tolerance = 0.01
+epsilon = epsilon *0.88
+alpha = 0
